@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MediaAPP" parent="@style/Theme.Leanback" />
+</resources>
